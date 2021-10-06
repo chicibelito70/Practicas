@@ -7,12 +7,17 @@ e=int(input("Ingrese un numero: "))
 
 if n>e:
     r=e+n 
+    print("---------------------------------------")
     print("la suma de los numero es:    ",r)
     q=e-n
     print("La resta de los numeros es:  ",q)
+    print("---------------------------------------")
 else:
     t=n*e
     print("La multiplicacion del los numero es:   ",t)
+    print("---------------------------------------")
     y=n/e
     print("La division de los numero es:    ",y)
+    print("---------------------------------------")
+    
     
