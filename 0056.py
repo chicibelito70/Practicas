@@ -7,7 +7,7 @@ def produ(lista):
     for x in range(len(lista)):
         prod=prod*lista[x]
     return prod
-
+ 
 #principa
 lista=[80, 2, 3, 4, 15]
 print("Lista:", lista)
